@@ -1,4 +1,6 @@
 ### 강의평가 웹 사이트 [JSP]
+![강의평가](https://github.com/user-attachments/assets/c0de451a-d5be-41e9-995c-0834944d168c)
+
 
 **개요**
 
@@ -38,6 +40,6 @@ JSP는 원리와 개념만 이해하면 되지만, 백문의 불여일타라는 
     
 
 **참고 링크**
-- **Inflearn** [JSP 강의평가 웹 사이트 개발하기](https://www.inflearn.com/course/%EA%B0%95%EC%9D%98%ED%8F%89%EA%B0%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-jsp/dashboard)
+- **Inflearn**: [JSP 강의평가 웹 사이트 개발하기](https://www.inflearn.com/course/%EA%B0%95%EC%9D%98%ED%8F%89%EA%B0%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-jsp/dashboard)
 - **bootstrap**: [부트스트랩5](https://getbootstrap.kr/)
 - **google**: [구글 SMTP](https://support.google.com/a/answer/176600?hl=ko)
