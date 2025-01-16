@@ -38,7 +38,7 @@ JSP는 원리와 개념만 이해하면 되지만, 백문의 불여일타라는 
     
 
 **참고 링크**
-
+- **Inflearn** [https://shorturl.at/jb4Zu]
 - **GitHub**: [https://(링크는 밖으로 노출)]
 - **Portfolio**: [https://(링크는 밖으로 노출)]
 - **Blog**: [https://(링크는 밖으로 노출)]
